@@ -39,9 +39,9 @@ Accuracy = 93.77%
 ```
 
 Compare to the state-of-the-art algorithms
-| | RNN | HON4D | Moving pose | Lie algebra | Moving poselets | Ours |
-|---|---|---|---|---|---|-|
-| **Accuracy** | 
+| | RNN | HON4D | Moving pose | Lie algebra | Moving poselets |
+|---|---|---|---|---|---|
+| Accuracy | 12.9% |
 
 <a name="Folders"/>
 ## Folders and Files
