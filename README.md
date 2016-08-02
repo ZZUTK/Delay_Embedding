@@ -1,14 +1,14 @@
 # Delay Embedding
 Time series modeling and classification based on delay embedding.  
 
-* [Requirements](#Requirements)
+* [Pre-requisites](#Requirements)
 * [Running the Test](#Running)
 * [Preliminary Results](#Result)
 * [Folders and Files](#Folders)
 * [Citation](#Citation)
 
 <a name="Requirements">
-## Requirements 
+## Pre-requisites 
 Matlab (the code has been tested on Matlab 2015a)
 
 <a name="Running">
