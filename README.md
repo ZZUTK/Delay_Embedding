@@ -19,8 +19,27 @@ Run `MAIN.m`
 ```
 
 <a name="Result"/>
-## Preliminary Result
-
+## Preliminary Results
+The running print on MSR Action 3D dataset is shown as follow
+```
+Processing the MSR_Action3D dataset 
+Trained 50 / 284
+Trained 100 / 284
+Trained 150 / 284
+Trained 200 / 284
+Trained 250 / 284
+tested 50 / 273
+tested 100 / 273
+tested 150 / 273
+tested 200 / 273
+tested 250 / 273
+Training time: 2.670sec, 0.009sec per sample
+Testing time: 16.898sec, 0.062sec per sample
+Accuracy = 93.77%
+```
+| | RNN | HON4D | Moving pose | Lie algebra | Moving poselets |
+|---|---|---|---|---|---|
+| 89.9% |
 
 <a name="Folders"/>
 ## Folders and Files
