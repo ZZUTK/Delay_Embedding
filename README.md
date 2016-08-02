@@ -13,8 +13,8 @@ Matlab (the code has been tested on Matlab 2015a)
 <a name="Running"/>
 ## Running the test
 Run `MAIN.m`
-```
->> MAIN
+```matlab
+MAIN
 ```
 
 <a name="Folders"/>
