@@ -7,11 +7,11 @@ Delay embedding for time series modeling and classification
 * [Folders and Files](#Folders)
 * [Citation](#Citation)
 
-<a name="Requirements"/>
+<a name="Requirements">
 ## Requirements 
 Matlab (the code has been tested on Matlab 2015a)
 
-<a name="Running"/>
+<a name="Running">
 ## Running the test
 Run `MAIN.m`
 ```
@@ -44,7 +44,7 @@ Compare to the state-of-the-art algorithms
 |---|:---:|:---:|:---:|---|---|---|
 | **Accuracy** | 93.6% | 92.03% | 94.49%* |
 
-<a name="Folders"/>
+<a name="Folders">
 ## Folders and Files
 * [DE](https://github.com/ZZUTK/Delay_Embedding/tree/master/DE) implements Delay Embedding
  * `delayEmbeding.m` implements 1-D delay embedding
@@ -63,7 +63,7 @@ Compare to the state-of-the-art algorithms
  * `defaultColors.mat` stores the default color map of Matlab
  * `lowpassFilter.m` performs low-pass filter to filter the raw data
 
-<a name="Citation"/>
+<a name="Citation">
 ## Citation
 Zhifei Zhang, Yang Song, Wei Wang, and Hairong Qi. "Derivative Delay Embedding: Online Modeling of Streaming Time Series". *CIKM*, 2016. 
 
