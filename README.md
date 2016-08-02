@@ -18,7 +18,7 @@ Run `MAIN.m`
 >> MAIN
 ```
 
-<a name="Result"/>
+<a name="Result">
 ## Preliminary Results
 The running print on MSR Action 3D dataset is shown as follow
 ```
@@ -39,9 +39,10 @@ Accuracy = 93.77%
 ```
 
 Compare to the state-of-the-art algorithms
-| | RNN | HON4D | Moving pose | Lie algebra | Moving poselets |
-|---|---|---|---|---|---|
-| Accuracy | 12.9% |
+
+| | [Moving poselets](http://www.cv-foundation.org//openaccess/content_iccv_2015_workshops/w11/papers/Tao_Moving_Poselets_A_ICCV_2015_paper.pdf) <br> (ICCV2015) | [dRNN](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Veeriah_Differential_Recurrent_Neural_ICCV_2015_paper.pdf) <br> (ICCV2015) | [HBRNN](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Du_Hierarchical_Recurrent_Neural_2015_CVPR_paper.pdf) <br> (CVPR2015) | 
+|---|:---:|:---:|:---:|---|---|---|
+| **Accuracy** | 93.6% | 92.03% | 94.49%* |
 
 <a name="Folders"/>
 ## Folders and Files
