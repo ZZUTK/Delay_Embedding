@@ -3,6 +3,7 @@ Delay embedding for time series modeling and classification
 
 * [Requirements](#Requirements)
 * [Running the test](#Running)
+* [Folders and Files](#Folders)
 
 <a name="Requirements"/>
 ## Requirements 
@@ -15,6 +16,7 @@ Run `MAIN.m`
 >> MAIN
 ```
 
+<a name="Folders"/>
 ## Folders and Files
 * [DE](https://github.com/ZZUTK/Delay_Embedding/tree/master/DE) implements delay embedding
  * `delayEmbeding.m` implements 1-D delay embedding
