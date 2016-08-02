@@ -4,6 +4,7 @@ Delay embedding for time series modeling and classification
 * [Requirements](#Requirements)
 * [Running the test](#Running)
 * [Folders and Files](#Folders)
+* [Citation](#Citation)
 
 <a name="Requirements"/>
 ## Requirements 
@@ -35,4 +36,7 @@ Run `MAIN.m`
  * `defaultColors.mat` stores the default color map of Matlab
  * `lowpassFilter.m` performs low-pass filter to filter the raw data
 
+<a name="Citation"/>
+## Citation
+Z. Zhang, Y. Song, W. Wang and H. Qi, "Derivative Delay Embedding: Online Modeling of Streaming Time Series". CIKM, 2016. 
 
