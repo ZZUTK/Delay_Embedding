@@ -2,7 +2,8 @@
 Delay embedding for time series modeling and classification
 
 * [Requirements](#Requirements)
-* [Running the test](#Running)
+* [Running the Test](#Running)
+* [Preliminary Results](#Result)
 * [Folders and Files](#Folders)
 * [Citation](#Citation)
 
@@ -16,6 +17,10 @@ Run `MAIN.m`
 ```
 >> MAIN
 ```
+
+<a name="Result"/>
+## Preliminary Result
+
 
 <a name="Folders"/>
 ## Folders and Files
