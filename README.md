@@ -16,12 +16,21 @@ Run `MAIN.m`
 ```
 
 ## Folders and Files
-* [DE](https://github.com/ZZUTK/Delay_Embedding/tree/master/DE)
- * `delayEmbeding.m` 1-D delay embedding
- * `delayEmbedingND.m` multi-dimensional delay embedding
-* [MGM](https://github.com/ZZUTK/Delay_Embedding/tree/master/MGM) constructs the transition matrix
- * `createGrid.m` 
+* [DE](https://github.com/ZZUTK/Delay_Embedding/tree/master/DE) implements delay embedding
+ * `delayEmbeding.m` implements 1-D delay embedding
+ * `delayEmbedingND.m` implements multi-dimensional delay embedding
+* [MGM](https://github.com/ZZUTK/Delay_Embedding/tree/master/MGM) learns the transition probability
+ * `createGrid.m` creates discretized embedding space.
+ * `add2Trans.m` records 
+ * `Trans_Prob.m`
+ * `HDist.m`
 * [data](https://github.com/ZZUTK/Delay_Embedding/tree/master/data)
- *
+ * ``
+ * ``
+ * ``
 * [utilities](https://github.com/ZZUTK/Delay_Embedding/tree/master/utilities)
- *
+ * ``
+ * ``
+ * ``
+
+
