@@ -1,5 +1,5 @@
 # Delay Embedding
-Delay embedding for time series modeling and classification
+Time series modeling and classification based on delay embedding.  
 
 * [Requirements](#Requirements)
 * [Running the Test](#Running)
