@@ -1,14 +1,17 @@
 # Delay Embedding
 Delay embedding for time series modeling and classification
 
-[Prerequisities](#Prerequisities)
+* [Prerequisities](#Prerequisities)
+* [Running the test](#Running)
 
 <a name="Prerequisities"/>
 ## Prerequisities 
 Matlab
 
-## Running the tests
+<a name="Running"/>
+## Running the test
 Run `MAIN.m`
+
 
 ## Folders
 * [DE](https://github.com/ZZUTK/Delay_Embedding/tree/master/DE) performs 1-D and N-D delay embedding
