@@ -37,9 +37,11 @@ Training time: 2.670sec, 0.009sec per sample
 Testing time: 16.898sec, 0.062sec per sample
 Accuracy = 93.77%
 ```
-| | RNN | HON4D | Moving pose | Lie algebra | Moving poselets |
-|---|---|---|---|---|---|
-| 89.9% |
+
+Compare to the state-of-the-art algorithms
+| | RNN | HON4D | Moving pose | Lie algebra | Moving poselets | Ours |
+|---|---|---|---|---|---|-|
+| **Accuracy** | 
 
 <a name="Folders"/>
 ## Folders and Files
