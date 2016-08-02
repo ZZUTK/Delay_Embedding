@@ -40,7 +40,7 @@ Accuracy = 93.77%
 
 Compare to the state-of-the-art algorithms
 
-| | [Moving poselets](http://www.cv-foundation.org//openaccess/content_iccv_2015_workshops/w11/papers/Tao_Moving_Poselets_A_ICCV_2015_paper.pdf) <br> (ICCV2015) | [dRNN](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Veeriah_Differential_Recurrent_Neural_ICCV_2015_paper.pdf) <br> (ICCV2015) | [HBRNN](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Du_Hierarchical_Recurrent_Neural_2015_CVPR_paper.pdf) <br> (CVPR2015) | | Ours method |
+| | [Moving poselets](http://www.cv-foundation.org//openaccess/content_iccv_2015_workshops/w11/papers/Tao_Moving_Poselets_A_ICCV_2015_paper.pdf)<br>(ICCV2015) | [dRNN](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Veeriah_Differential_Recurrent_Neural_ICCV_2015_paper.pdf)<br>(ICCV2015) | [HBRNN](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Du_Hierarchical_Recurrent_Neural_2015_CVPR_paper.pdf)<br>(CVPR2015) | <br>(CVPR2016)| Ours method |
 |---|:---:|:---:|:---:|:---:|:---:|
 | **Accuracy** | 93.6% | 92.03% | 94.49%* | 93.0% | 93.77% / 94.52* |
 
