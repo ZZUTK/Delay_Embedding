@@ -4,5 +4,8 @@ Delay embedding for time series modeling and classification
 ## Requirement 
 Matlab
 
-## Run
+## Easy Run
 Run `MAIN.m`
+
+## Files
+
