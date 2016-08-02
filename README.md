@@ -43,7 +43,7 @@ Compare to the state-of-the-art algorithms
 | | [Moving poselets](http://www.cv-foundation.org//openaccess/content_iccv_2015_workshops/w11/papers/Tao_Moving_Poselets_A_ICCV_2015_paper.pdf)<br>(ICCV2015) | [dRNN](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Veeriah_Differential_Recurrent_Neural_ICCV_2015_paper.pdf)<br>(ICCV2015) | [HBRNN](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Du_Hierarchical_Recurrent_Neural_2015_CVPR_paper.pdf)<br>(CVPR2015) | [Actionlets & Poselets](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lillo_A_Hierarchical_Pose-Based_CVPR_2016_paper.pdf)<br>(CVPR2016)| Ours method |
 |---|:---:|:---:|:---:|:---:|:---:|
 | **Accuracy** | 93.6% | 92.03% | 94.49%* | 93.0% | 93.77% / 94.52* |
-*Note*: * denotes the results obtained from experiement on subsets, which is higher than on the whole dataset
+*Note: the * marker denotes the results obtained from experiement on subsets, which is higher than on the whole dataset*
 
 <a name="Folders">
 ## Folders and Files
