@@ -1,12 +1,12 @@
 # Delay Embedding
 Delay embedding for time series modeling and classification
 
-* [Prerequisities](#Prerequisities)
+* [Requirements](#Prerequisities)
 * [Running the test](#Running)
 
 <a name="Prerequisities"/>
-## Prerequisities 
-Matlab
+## Requirements 
+Matlab (the code has been tested on Matlab 2015a)
 
 <a name="Running"/>
 ## Running the test
