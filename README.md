@@ -1,11 +1,14 @@
 # Delay Embedding
 Delay embedding for time series modeling and classification
 
-## Requirement 
+## Prerequisities 
 Matlab
 
-## Easy Run
+## Running the tests
 Run `MAIN.m`
 
-## Files
-
+## Folders
+* [DE](https://github.com/ZZUTK/Delay_Embedding/tree/master/DE) 
+* [MGM](https://github.com/ZZUTK/Delay_Embedding/tree/master/MGM)
+* [data](https://github.com/ZZUTK/Delay_Embedding/tree/master/data)
+* [utilities](https://github.com/ZZUTK/Delay_Embedding/tree/master/utilities)
