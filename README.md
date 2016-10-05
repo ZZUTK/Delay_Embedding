@@ -69,8 +69,6 @@ Compare to the state-of-the-art algorithms
 Zhifei Zhang, Yang Song, Wei Wang, and Hairong Qi. "Derivative Delay Embedding: Online Modeling of Streaming Time Series". *The 25th ACM International Conference on Information and Knowledge Management (CIKM)*, 2016. 
 
 ```
-#!latex
-
 @inproceedings{zhang2016derivative,
   title={Derivative Delay Embedding: Online Modeling of Streaming Time Series},
   author={Zhang, Zhifei and Song, Yang and Wang, Wei and Qi, Hairong},
