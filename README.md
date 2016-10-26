@@ -79,5 +79,4 @@ Zhifei Zhang, Yang Song, Wei Wang, and Hairong Qi. "Derivative Delay Embedding: 
 }
 ```
 
-[Presentation on CIKM2016](https://www.dropbox.com/s/k68m8ckn17af9ae/CIKM2016_presentation.ppsx?dl=0)
-If it is not availabel, please refer to the [PDF](https://www.dropbox.com/s/j74yddhbo9iledz/CIKM2016_presentation.pdf?dl=0) version.
+[Presentation on CIKM2016](https://www.dropbox.com/s/k68m8ckn17af9ae/CIKM2016_presentation.ppsx?dl=0). If it is not availabel, please refer to the [PDF](https://www.dropbox.com/s/j74yddhbo9iledz/CIKM2016_presentation.pdf?dl=0) version.
