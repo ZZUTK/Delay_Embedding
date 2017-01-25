@@ -1,5 +1,5 @@
 # Delay Embedding
-Time series modeling and classification based on delay embedding.  
+Time series modeling and classification based on delay embedding. This is an improved version of ["Derivative Delay Embedding: Online Modeling of Streaming Time Series"](https://arxiv.org/pdf/1609.07540v1.pdf). 
 
 * [Pre-requisites](#Requirements)
 * [Running the Test](#Running)
