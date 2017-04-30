@@ -8,6 +8,7 @@ Time series modeling and classification based on delay embedding. This is an imp
 * [Citation](#Citation)
 
 <a name="Requirements">
+
 ## Pre-requisites 
 Matlab (the code has been tested on Matlab 2015a)
 
@@ -19,6 +20,7 @@ Run `MAIN.m`
 ```
 
 <a name="Result">
+
 ## Preliminary Results
 The running print on MSR Action 3D dataset is shown as follow
 ```
@@ -46,6 +48,7 @@ Compare to the state-of-the-art algorithms
 *Note: the * marker denotes the results from subsets, which is usually higher than that from the whole dataset*
 
 <a name="Folders">
+
 ## Folders and Files
 * [DE](https://github.com/ZZUTK/Delay_Embedding/tree/master/DE) implements Delay Embedding
  * `delayEmbeding.m` implements 1-D delay embedding
@@ -65,6 +68,7 @@ Compare to the state-of-the-art algorithms
  * `lowpassFilter.m` performs low-pass filter to filter the raw data
 
 <a name="Citation">
+
 ## Related Work
 Zhifei Zhang, Yang Song, Wei Wang, and Hairong Qi. "Derivative Delay Embedding: Online Modeling of Streaming Time Series". *The 25th ACM International Conference on Information and Knowledge Management (CIKM)*, 2016. [[PDF](https://arxiv.org/pdf/1609.07540v1.pdf)] 
 
